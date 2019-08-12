@@ -23,7 +23,6 @@
 - map、reduce、filter、sorted
 - 匿名函数
 - 装饰器
-- 偏函数
 
 ### 5. 模块
 
