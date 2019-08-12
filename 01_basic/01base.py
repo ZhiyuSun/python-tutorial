@@ -61,7 +61,7 @@ print(d.get('Bob'))
 d.pop('Bob')
 d.update({'Jerry': 60})
 print(d)
-print(d['sun'])
+# print(d['sun'])
 
 # 请务必注意，dict内部存放的顺序和key放入的顺序是没有关系的。
 #
